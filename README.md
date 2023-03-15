@@ -1,6 +1,6 @@
 # Advanced SQL - Kaggle Course
 
-## JOINs and UNIONs
+1. (JOINs and UNIONs)[https://github.com/SantiagoCuello97/Advanced-SQL-Kaggle-Course/blob/main/part1-joins-and-unions.ipynb]
 Combine information from multiple tables.
 
 ## Analytic Functions
